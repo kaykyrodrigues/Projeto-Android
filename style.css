@@ -70,6 +70,7 @@ header{
 h2{
     background-color: #c5ebd6;;
     font-family: 'Robo';
+    border-radius: 5px;
     
 }
 header > h1{
